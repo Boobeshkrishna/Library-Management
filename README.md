@@ -1,4 +1,4 @@
-![ACLIB](https://github.com/Boobeshkrishna/Library-Management/assets/141472052/8ba4be0b-ce72-4000-bbb5-fd22a4d16698)![CLASSLIB](https://github.com/Boobeshkrishna/Library-Management/assets/141472052/a12e7581-3809-474d-b960-2052f2c4fc38)![CLASSLIB](https://github.com/Boobeshkrishna/Library-Management/assets/141472052/ec472c06-4107-4452-a26a-6d4b17b5fbba)# Library-Management
+# Library-Management
 ### AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
 ### PROBLEM STATEMENT:
